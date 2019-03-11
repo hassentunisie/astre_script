@@ -1,0 +1,7 @@
+LocalDate,Date,left
+LocalTime,Heure,left
+Courant_M1,Courant moteur agitateur,right
+Vitesse Agitation (%),Vitesse d’agitation en RPM,right
+Courant_M2,Courant moteur couteau latéral,right
+Temperature,Temperature,right
+N. Cycle,Cycle,right
